@@ -25,3 +25,5 @@ if __name__ == '__main__':
     nw = sorted(nw)
     for item in nw:
         print(item)
+
+        
