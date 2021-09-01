@@ -7,3 +7,4 @@ storage2 = set(input().split());
 storage3 = storage1.union(storage2)
 
 print(len(storage3))
+
