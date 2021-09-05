@@ -47,3 +47,5 @@ if __name__ == '__main__':
     print(digits)
     print(lowercase)
     print(uppercase)
+
+    
