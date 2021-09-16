@@ -18,3 +18,5 @@ for i in storage:
         count = count-1
 
 print(count)
+
+
