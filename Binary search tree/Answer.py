@@ -44,3 +44,4 @@ class Solution:
             return -1
 
 T=int(input())
+
